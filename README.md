@@ -1,6 +1,5 @@
 # NLP_classification_project
-using DistilBERT with Hugginface 
+- **Using DistilBERT with Hugginface** 
 
-NLP_Lab in NTHU
+- **NLP Lab in NTHU**
 
-modified by Jin-ting Wu
